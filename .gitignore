@@ -1,0 +1,11 @@
+# Python / Django
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# Configurações locais
+.env
+.DS_Store
